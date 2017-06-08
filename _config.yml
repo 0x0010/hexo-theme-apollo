@@ -1,12 +1,13 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    #Weibo: http://weibo.com/sunchongsheng
+    GitHub: https://github.com/0x0010
     Rss: /atom.xml
 
 favicon: /favicon.png
-logo: /favicon.png
+# virus logo
+logo: http://7xsp25.com1.z0.glb.clouddn.com/image/virus.png
 
 # Comment
 # e.g disqus: seansun
@@ -16,7 +17,7 @@ cloudTie:
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+# ga: UA-65933410-1
 
 # Copyright Infomation
 startyear: 2015
